@@ -1,0 +1,8 @@
+C:\Users\Technologist SP\Documents\GitHub\hangman\Hang Man\Hang Man\bin\Debug\Hang Man.exe.config
+C:\Users\Technologist SP\Documents\GitHub\hangman\Hang Man\Hang Man\obj\Debug\Hang Man.csprojResolveAssemblyReference.cache
+C:\Users\Technologist SP\Documents\GitHub\hangman\Hang Man\Hang Man\bin\Debug\Hang Man.exe
+C:\Users\Technologist SP\Documents\GitHub\hangman\Hang Man\Hang Man\bin\Debug\Hang Man.pdb
+C:\Users\Technologist SP\Documents\GitHub\hangman\Hang Man\Hang Man\obj\Debug\Hang Man.exe
+C:\Users\Technologist SP\Documents\GitHub\hangman\Hang Man\Hang Man\obj\Debug\Hang Man.pdb
+C:\Users\Technologist SP\Documents\GitHub\hangman\Hang Man\Hang Man\bin\Debug\EntityFramework.dll
+C:\Users\Technologist SP\Documents\GitHub\hangman\Hang Man\Hang Man\bin\Debug\EntityFramework.xml
