@@ -30,9 +30,9 @@ namespace Hang_Man
             Random rwg = new Random();
             bool keepPlaying = true;
             int numTries = 10;
-            List<string> words = new List<string>();
+            List<string> words = new List<string>() { "homeland", "country", "world", "Africa", "internet", "laptop", "galaxy", "America", "ethiopia" };
             //declare a new variable List string data type that holds our list of items
-            words = File.ReadAllText("words.txt").Split('\n').ToList();
+            //words = File.ReadAllText("words.txt").Split('\n').ToList();
             //store the value of the randomly selected word from List in the empty string variable
             string wordPick = words[rwg.Next(0, words.Count())];
             //declare an empty string to store the characters entered by the user
